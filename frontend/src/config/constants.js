@@ -1,0 +1,10 @@
+export const API_BASE_URL = "http://localhost:5000";
+export const SIGNUP_END ="/api/user/signup"
+export const Login_End ="api/user/login"
+export const ADD_URL = "/api/task/add"
+export const GET_URL ="api/task/getuser"
+export const UPDATE_URL ="api/task/update"
+export const GET_UPDATE_URL= "/api/task"
+export const GET_DELETE_URL= "api/task"
+export const GET_Task_URL= "api/task"
+// export const signup = `${API_BASE_URL}${SIGNUP_END}`; http://localhost:5000/api/task/add
